@@ -9,4 +9,4 @@ int main() {
         if(~s.find(ss[i])) c++;
     }
     cout<<c<<"\n";
-}
+ }
